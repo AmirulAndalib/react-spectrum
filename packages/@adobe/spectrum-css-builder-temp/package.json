@@ -17,7 +17,7 @@
     "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulplog": "^1.0.0",
-    "postcss": "^5.2.18",
+    "postcss": "^8.5.23",
     "postcss-custom-properties": "^6.0.1",
     "postcss-import": "^10.0.0",
     "postcss-value-parser": "3.3.1",
